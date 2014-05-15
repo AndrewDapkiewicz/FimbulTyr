@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4_64.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../GlassLabProjects/Hiro/uHiro/Assets/Plugins/UniWebViewPluginMacEditor.cs">
+    <Files>
+      <File FileName="FimbulTyr.Core/CoreManager.cs" Line="1" Column="1" />
+      <File FileName="FimbulTyr.Core/DataAccessLayer/LocalStorageManager.cs" Line="25" Column="3" />
+      <File FileName="FimbulTyr.Core/BusinessLogicLayer/Ticket.cs" Line="1" Column="1" />
+      <File FileName="FimbulTyr.iOS/AppDelegate.cs" Line="7" Column="1" />
+      <File FileName="../GlassLabProjects/Hiro/uHiro/Assets/Plugins/UniWebViewPluginiOS.cs" Line="1" Column="1" />
+      <File FileName="../GlassLabProjects/Hiro/uHiro/Assets/Plugins/UniWebViewPluginMacEditor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
