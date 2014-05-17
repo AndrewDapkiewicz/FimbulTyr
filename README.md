@@ -1,5 +1,5 @@
- FimbulTyr
-===========
+FimbulTyr
+=========
 
 - Small tasks
 - Small requests
@@ -52,9 +52,21 @@ Store in local database
 Local database sync with server
 
 
+When the app loads, the user should be presented with all high priority inbound and outbound requests. Are these requests stored locally or are they pulled down from a server? How are they retrieved?
 
- Xamarin Development
-=====================
+One action the user can take is to resolve a request, which should communicate to the assigner the new state of the task. Another action the user can take is to make a new request, which can be assigned to another user, thus "pinging" him or her.
+
+NOTE: this may only be possible with socket communication mediated by an authoritative server.
+
+Possible tech stack:
+- Xamarin client application
+- node.js server
+- Couchbase database
+
+
+
+Xamarin Development
+===================
 
 Typical Application Layers (core project):
 - Data Layer (DL) - Non-volatile data persistence, likely to be a SQLite database but could be implemented with XML files or any other suitable mechanism.
